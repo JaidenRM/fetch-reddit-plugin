@@ -1,0 +1,17 @@
+{
+  "name": "fetch-reddit-plugin",
+  "version": "1.0.0",
+  "description": "Used to fetch simplified reddit posts from a specific subreddit",
+  "main": "index.js",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "reddit"
+  ],
+  "author": "Jaiden Muscat <jaidenreecemuscat@gmail.com>",
+  "license": "0BSD",
+  "dependencies": {
+    "gatsby-source-filesystem": "^3.11.0"
+  },
+  "devDependencies": {}
+}
