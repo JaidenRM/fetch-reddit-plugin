@@ -1,4 +1,4 @@
-# fetch-reddit-posts-plugin
+# fetch-reddit-plugin
 
 A plugin for Gatsby that is used to fetch data on posts (with images only atm) in a particular subreddit on Reddit.
 
