@@ -8,6 +8,10 @@
     "gatsby-plugin",
     "reddit"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JaidenRM/fetch-reddit-plugin.git"
+  },
   "author": "Jaiden Muscat <jaidenreecemuscat@gmail.com>",
   "license": "0BSD",
   "dependencies": {
